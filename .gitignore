@@ -1,0 +1,6 @@
+
+# Do not sync the camel dataset on github
+# Camel dataset can be retried from here: https://ral.ucar.edu/solutions/products/camels 
+/camels-dataset/**
+
+
